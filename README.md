@@ -15,7 +15,6 @@ The project addresses a common issue in contemporary performance practice: maint
 Through live performance experience and collaboration with musicians from diverse backgrounds, I have observed that synchronizing to a metronome is not only a learned skill, but also a matter of individual aptitude.
 
 In many cases, strict adherence to a click track constrains musical expression, while performances without a click allow greater interaction, flexibility, and responsiveness among musicians.
-
 This project explores a middle ground between these two extremes.
 
 #### Maintining microrhythmic relations within backing track
