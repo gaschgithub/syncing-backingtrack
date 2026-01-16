@@ -51,7 +51,7 @@ The goal is to allow the backing material to **follow the musician**, preserving
 
 ## Status
 
-**Status:** Future Development  
+**Status:** 🧮 Future Development  
 
 This project is currently theoretical and intended for exploration **during/after a Sound and Music Computing (SMC) Master**, as part of ongoing research into rhythm, timing, and expressive performance systems.
 
