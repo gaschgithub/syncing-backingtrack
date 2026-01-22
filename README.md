@@ -25,9 +25,9 @@ In the context of this project, however, when the backing track is dynamically a
 
 ---
 
-## Objectives
+## Goals
 
-Design an algorithm that:
+Designing an algorithm that:
 
 - Receives a **stable real-time signal** from a drummer (or rhythmic leader)
 - Extracts onset information and continuously analyzes **inter-onset interval (IOI)** values
