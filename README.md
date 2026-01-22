@@ -34,7 +34,7 @@ Designing an algorithm that:
 - Estimates tempo fluctuations in real time
 - Dynamically **stretches or compresses a backing track** so that it adapts to the performer’s timing rather than enforcing a fixed tempo
 
-The goal is to allow the backing material to **follow the musician**, preserving expressive timing while maintaining synchronization.
+The main goal is to allow the backing material to **follow the musician**, preserving expressive timing while maintaining synchronization.
 
 ---
 
