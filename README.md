@@ -19,7 +19,7 @@ This project explores a middle ground between these two extremes.
 
 #### Maintining microrhythmic relations within backing track
 
-When adapting material derived from my microrhythm research to live performance contexts, I had the opportunity to work with a drummer capable of following a metronome exhibiting distinct microrhythmic tendencies.
+When adapting material derived from my microrhythm research to live performance contexts, I had the opportunity to work with a drummer capable of following metronomes with distinct microrhythmic tendencies.
 
 In the context of this project, however, when the backing track is dynamically adapted to the drummer’s tempo, it is essential that the internal microrhythmic relations of the backing track are preserved. These relations may be integral to the stylistic identity of the material and to the structural integrity of the original composition.
 
